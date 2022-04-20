@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DeliveryService</string>
+
+    <string name="email_label">Email:</string>
+    <string name="phone_label">Phone:</string>
+    <string name="birth_date_label">Birth date:</string>
+
+    <string name="courier_name_hint">Courier name</string>
+    <string name="order_name_hint">Order name</string>
+
+    <string name="create_btn_label">Create</string>
+    <string name="update_btn_label">Update</string>
+    <string name="delete_btn_label">Delete</string>
+    <string name="back_btn_label">Back</string>
+    <string name="orders_btn_label">Show orders</string>
+</resources>
